@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 
-  This project predicts student performance scores using machine learning regression techniques.
+  This project predicts student performance scores using machine learning regression techniques.                          
+  
 The system analyzes key factors such as:
 
    • Gender                                
