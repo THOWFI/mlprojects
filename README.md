@@ -86,22 +86,22 @@ The project includes:
 
 ## ⚙️ Installation & Setup
 
-###1️⃣ Clone Repository
+## 1️⃣ Clone Repository
 
     git clone https://github.com/THOWFI/Student-Performance.git
     cd Student-Performance
 
-###2️⃣ Create Virtual Environment
+## 2️⃣ Create Virtual Environment
 
     python -m venv venv
     source venv/bin/activate   # On Linux/Mac
     venv\Scripts\activate      # On Windows
 
-###3️⃣ Install Dependencies
+## 3️⃣ Install Dependencies
 
     pip install -r requirements.txt
 
-###4️⃣ Run Flask App
+## 4️⃣ Run Flask App
 
     python application.py
 
