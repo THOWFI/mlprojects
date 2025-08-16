@@ -1,6 +1,6 @@
-##📊 Student Performance Prediction
+## 📊 Student Performance Prediction
 
-##📌 Project Overview
+## 📌 Project Overview
 
   This project predicts student performance scores using machine learning regression techniques.
 The system analyzes key factors such as:
@@ -22,7 +22,7 @@ The project includes:
 ✅ **AWS-ready configuration** for cloud deployment
 ✅ **Dockerized Deployment** for Run anywhere with a single container.
 
-##📈 Example:
+## 📈 Example:
 
     gender	  race/ethnicity	parental level	    lunch	     prep course	   reading score    	writing score
    ____________________________________________________________________________________________________________
@@ -30,7 +30,7 @@ The project includes:
 
 ✅ Output: Predicted Math Score = 78.5
 
-##🚀 Features
+## 🚀 Features
 
 • End-to-end ML pipeline with data ingestion, transformation, model training, and evaluation.
 • Comparative analysis of different regression models.
@@ -40,7 +40,7 @@ The project includes:
 • Dockerized Deployment for Run anywhere with a single container.
 • Scalable design for cloud deployment (AWS EC2 / Elastic Beanstalk / S3 integration).
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 • Python 3.11+
 • Flask – Web framework
@@ -50,7 +50,7 @@ The project includes:
 • Docker – Containerization
 • AWS CLI – Cloud deployment ready
 
-##📂 Project Structure
+## 📂 Project Structure
 
     Student-Performance/
     │── .ebextensions
@@ -84,7 +84,7 @@ The project includes:
     │── logs/                       # Log files
 
 
-##⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 ###1️⃣ Clone Repository
 
