@@ -106,8 +106,11 @@ The project includes:
     python application.py
 
 
-Visit:
+To Check Visit:
 👉 http://127.0.0.1:5000/
+
+To Check Predict:
+👉 http://127.0.0.1:5000/predictdata
 
 ## 🧩 Pipeline Workflow
 
