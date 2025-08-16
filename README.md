@@ -5,13 +5,13 @@
   This project predicts student performance scores using machine learning regression techniques.
 The system analyzes key factors such as:
 
-   • Gender                                
-   • Race/Ethnicity                                                       
-   • Parental Level of Education                                                      
-   • Lunch Type                                                            
-   • Test Preparation Course                                                         
-   • Reading Score                                                                          
-   • Writing Score                                                                    
+     • Gender                                
+     • Race/Ethnicity                                                       
+     • Parental Level of Education                                                      
+     • Lunch Type                                                            
+     • Test Preparation Course                                                         
+     • Reading Score                                                                          
+     • Writing Score                                                                    
 
 The goal is to build a robust regression pipeline that can generalize well and provide accurate predictions of a student's math score (or overall academic performance).
 
