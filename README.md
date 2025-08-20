@@ -25,9 +25,9 @@ The project includes:
 
 ## 📈 Example:
 
-    gender	  race/ethnicity	parental level	    lunch	     prep course	   reading score    	writing score
-   ____________________________________________________________________________________________________________
-    female	     group B	      bachelor's	     standard	    completed	          72	            74
+| gender	|  race/ethnicity | parental level	|   lunch	   | prep course	|   reading score   | 	writing score   |
+|---------|-----------------|-----------------|------------|--------------|-------------------|-------------------|
+|  female	|      group B	  |   bachelor's	  |  standard	 |  completed	  |        72	        |          74       |
 
 ✅ Output: Predicted Math Score = 78.5
 
